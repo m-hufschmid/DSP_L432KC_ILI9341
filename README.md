@@ -1,4 +1,4 @@
-# Digital Signal Processing using an STM32 Nucleo Board, featuring stereo audio input and output, along with a color display.
+## Digital Signal Processing using an STM32 Nucleo Board, featuring stereo audio input and output, along with a color display.
 
 Main Components:
 - STM32 NUCLEO-L432KC: https://www.st.com/en/evaluation-tools/nucleo-l432kc.html
