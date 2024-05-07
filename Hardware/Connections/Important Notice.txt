@@ -1,0 +1,1 @@
+Remove SB16 and SB18 solder bridges on the STM32 Nucleo-32 board.
