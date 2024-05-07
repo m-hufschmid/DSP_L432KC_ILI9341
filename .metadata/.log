@@ -16,3 +16,6 @@ Command-line arguments:  -os win32 -ws win32 -arch x86_64 -data C:\Users\markus.
 
 !ENTRY org.eclipse.cdt.core 1 0 2024-05-07 11:44:28.965
 !MESSAGE Indexed 'ILI9341FFT_v2' (39 sources, 141 headers) in 16.4 sec: 16’161 declarations; 66’905 references; 3 unresolved inclusions; 46 syntax errors; 171 unresolved names (0.21%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2024-05-07 12:19:00.868
+!MESSAGE Indexed 'VUmeter_FFT_Demo' (39 sources, 141 headers) in 3.81 sec: 16’161 declarations; 66’905 references; 3 unresolved inclusions; 46 syntax errors; 171 unresolved names (0.21%)

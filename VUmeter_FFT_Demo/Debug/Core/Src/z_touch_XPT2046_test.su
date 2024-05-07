@@ -1,0 +1,5 @@
+../Core/Src/z_touch_XPT2046_test.c:40:6:DrawCross	40	static
+../Core/Src/z_touch_XPT2046_test.c:52:6:MoveCross	32	static
+../Core/Src/z_touch_XPT2046_test.c:75:6:Touch_ShowData	88	static
+../Core/Src/z_touch_XPT2046_test.c:122:6:Touch_TestDrawing	64	static
+../Core/Src/z_touch_XPT2046_test.c:163:6:Touch_TestCalibration	248	static

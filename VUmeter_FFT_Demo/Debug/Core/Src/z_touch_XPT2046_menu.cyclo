@@ -1,0 +1,6 @@
+z_touch_XPT2046_menu.c:22:6:InitMenu	3
+z_touch_XPT2046_menu.c:83:6:DrawMenuItem	4
+z_touch_XPT2046_menu.c:99:6:DrawMenu	2
+z_touch_XPT2046_menu.c:115:9:CheckMenu	4
+z_touch_XPT2046_menu.c:143:6:RunMenu1	12
+z_touch_XPT2046_menu.c:190:6:RunMenu2	8
