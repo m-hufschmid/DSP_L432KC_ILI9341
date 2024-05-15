@@ -1,4 +1,0 @@
-../Core/Src/displayFFT.c:12:6:displayFFTdata	560	static
-../Core/Src/displayFFT.c:73:6:clearFFTdisplay	24	static
-../Core/Src/displayFFT.c:77:6:initFFTdisplay	24	static
-../Core/Src/displayFFT.c:85:6:redrawFFTdisplay	72	static

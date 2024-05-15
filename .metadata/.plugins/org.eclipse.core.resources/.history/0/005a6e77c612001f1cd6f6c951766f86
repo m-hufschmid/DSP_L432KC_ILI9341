@@ -120,7 +120,7 @@ SECTIONS
     . = ALIGN(4);
   } >FLASH
 
-  .fini_array (READONLY) :
+  .fini_array :
   {
     . = ALIGN(4);
     PROVIDE_HIDDEN (__fini_array_start = .);

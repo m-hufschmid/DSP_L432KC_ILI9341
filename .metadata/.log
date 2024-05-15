@@ -19,3 +19,36 @@ Command-line arguments:  -os win32 -ws win32 -arch x86_64 -data C:\Users\markus.
 
 !ENTRY org.eclipse.cdt.core 1 0 2024-05-07 12:19:00.868
 !MESSAGE Indexed 'VUmeter_FFT_Demo' (39 sources, 141 headers) in 3.81 sec: 16’161 declarations; 66’905 references; 3 unresolved inclusions; 46 syntax errors; 171 unresolved names (0.21%)
+!SESSION 2024-05-08 16:12:19.216 -----------------------------------------------
+eclipse.buildId=Version 1.12.0
+java.version=11.0.17
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=de_CH
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2024-05-08 16:12:51.571
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2024-05-08 16:12:51.579
+!MESSAGE Log4j2 initialized with config file C:\Users\markus.hufschmid\Documents\mySTM32projects\DSP_L432KC_ILI9341\.metadata\.log4j2.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2024-05-08 16:13:02.168
+!MESSAGE Started RMI Server, listening on port 41337
+!SESSION 2024-05-15 16:16:48.659 -----------------------------------------------
+eclipse.buildId=Version 1.15.1
+java.version=17.0.8.1
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=de_CH
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -data C:\Users\markus.hufschmid\Documents\mySTM32projects\DSP_L432KC_ILI9341
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2024-05-15 16:16:59.785
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2024-05-15 16:16:59.796
+!MESSAGE Log4j2 initialized with config file C:\Users\markus.hufschmid\Documents\mySTM32projects\DSP_L432KC_ILI9341\.metadata\.log4j2.xml
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2024-05-15 16:17:06.109
+!MESSAGE Removing PartDescriptorImpl with the "org.eclipse.ui.views.ResourceNavigator" id and the "Navigator (Deprecated)" label.It points to the non available "bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" class. Bundle might have been uninstalled
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2024-05-15 16:17:09.718
+!MESSAGE Started RMI Server, listening on port 41337

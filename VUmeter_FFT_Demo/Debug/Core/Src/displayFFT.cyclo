@@ -1,4 +1,0 @@
-displayFFT.c:12:6:displayFFTdata	14
-displayFFT.c:73:6:clearFFTdisplay	1
-displayFFT.c:77:6:initFFTdisplay	1
-displayFFT.c:85:6:redrawFFTdisplay	4

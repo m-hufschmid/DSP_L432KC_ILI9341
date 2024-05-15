@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Delete resource &apos;VUmeter_FFT_Demo/ILI9341TestDisplay.launch&apos;" deleteContents="false" description="Delete resource &apos;VUmeter_FFT_Demo/ILI9341TestDisplay.launch&apos;" element1="/VUmeter_FFT_Demo/ILI9341TestDisplay.launch" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1715783100850"/>
+</session>
