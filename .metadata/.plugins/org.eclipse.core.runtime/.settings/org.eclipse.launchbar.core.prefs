@@ -8,3 +8,4 @@ org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:ILI9341FFT_v2/activeLaunchTarge
 org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:ILI9341TestDisplay/activeLaunchMode=run
 org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:ILI9341TestDisplay/activeLaunchTarget=null\:---
 org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:VUmeter_FFT_Demo/activeLaunchMode=run
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:VUmeter_FFT_Demo/activeLaunchTarget=null\:---
