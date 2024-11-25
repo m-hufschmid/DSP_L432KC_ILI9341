@@ -2,6 +2,7 @@
 
 Main Components:
 - STM32 NUCLEO-L432KC: https://www.st.com/en/evaluation-tools/nucleo-l432kc.html
+  (Remove 
 - Digilent Pmod I2S2: https://digilent.com/shop/pmod-i2s2-stereo-audio-input-and-output/
 - 3.2" TouchScreen ILI9314: https://de.aliexpress.com/item/1005003120684423.html
 
