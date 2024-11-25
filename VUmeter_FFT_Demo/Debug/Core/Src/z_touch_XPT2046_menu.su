@@ -1,0 +1,6 @@
+../Core/Src/z_touch_XPT2046_menu.c:22:6:InitMenu	16	static
+../Core/Src/z_touch_XPT2046_menu.c:83:6:DrawMenuItem	72	static
+../Core/Src/z_touch_XPT2046_menu.c:99:6:DrawMenu	24	static
+../Core/Src/z_touch_XPT2046_menu.c:115:9:CheckMenu	32	static
+../Core/Src/z_touch_XPT2046_menu.c:143:6:RunMenu1	24	static,ignoring_inline_asm
+../Core/Src/z_touch_XPT2046_menu.c:190:6:RunMenu2	24	static
