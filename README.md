@@ -1,10 +1,9 @@
 ## Digital Signal Processing using an STM32 Nucleo Board, featuring stereo audio input and output, along with a color display.
 
 Main Components:
-- STM32 NUCLEO-L432KC: https://www.st.com/en/evaluation-tools/nucleo-l432kc.html
-  - (Remove SB16 and SB18 solder bridges on the STM32 Nucleo-32 board!) 
-- Digilent Pmod I2S2: https://digilent.com/shop/pmod-i2s2-stereo-audio-input-and-output/
-- 3.2" TouchScreen ILI9314: https://de.aliexpress.com/item/1005003120684423.html
+- [STM32 NUCLEO-L432KC](https://www.st.com/en/evaluation-tools/nucleo-l432kc.html). (Remove SB16 and SB18 solder bridges on the STM32 Nucleo-32 board!) 
+- [Digilent Pmod I2S2](https://digilent.com/shop/pmod-i2s2-stereo-audio-input-and-output/). 
+- [3.2" TouchScreen ILI9314](https://de.aliexpress.com/item/1005003120684423.html).
 
 Use the information in the folder "Hardware" to connect the three boards.
 
